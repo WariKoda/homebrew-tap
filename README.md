@@ -6,10 +6,10 @@ project against a server and syncs only the changes you approve, over SFTP, FTP 
 ## Install
 
 ```bash
-brew install --cask warikoda/tap/drift
+brew install warikoda/tap/drift
 ```
 
-Update with `brew upgrade --cask drift`, remove with `brew uninstall --cask drift`.
+Update with `brew upgrade drift`, remove with `brew uninstall drift`.
 
 drift needs Git at runtime.
 
